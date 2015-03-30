@@ -1,7 +1,14 @@
 ValidarPortugal for Android
 ===========================
 
-App to validate numbers of official documents from Portugal.
+Mobile App used to validate official government issued document numbers (Portugal version).
+
+**Supported Documents:**
+
+ * Id Card Number (Número de Bilhete de Identidade)
+ * Tax Number (Número de Indentificação Fiscal)
+ * Social Security Number (Número de Identificação de Segurança Social)
+ * Citizen's Card Number (Número de Cartão de Cidadão)
 
 ![Screenshot of ValidarPortugal app](https://github.com/JoaquimLey/validar-portugal-android/blob/master/store/screenshots/7_3_portrait.png)
 
@@ -14,6 +21,12 @@ Xoidre-Team
 - **Reference:** http://en.wikipedia.org/wiki/Check_digit
 
 
+Future Releases
+---------------
+
+ * Create versions for other countries (Algorithms needed)
+ * Create country selector (Flag icons) 
+
 Contribution guidelines
 -----------------------
 
@@ -25,7 +38,7 @@ Contribution guidelines
 
 * **Other guidelines:**
   Always PULL from master before doing any work, please keep the REABASE conflicts to a minimum.
-* **  Git documentation (by Ryan Amaral):** http://tinyurl.com/mslxyyt
+* **Git documentation (by Ryan Amaral):** http://tinyurl.com/mslxyyt
 
 
 ### Contributors ###
@@ -36,7 +49,7 @@ Ryan Amaral - <me@ryanamaral.com>
 ### Who do I talk to? ###
 
 Joaquim Ley  
-<me@joaquimley.com>
+<me@joaquimley.com>  
 www.joaquimley.com
 
 License
