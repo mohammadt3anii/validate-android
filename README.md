@@ -1,13 +1,15 @@
 ValidarPortugal for Android
 ===========================
 
+App to validate numbers of official documents from Portugal.
+
+
 Xoidre-Team
 -----------
 
-- **Language:** Android
 - **Project Name:** Validar Portugal
+- **Language:** Android
 - **Reference:** http://en.wikipedia.org/wiki/Check_digit
-- **Core repo:** Soon.
 
 
 Contribution guidelines
@@ -26,13 +28,13 @@ Contribution guidelines
 
 ### Contributors ###
 
-Joaquim Ley - <me@joaquimley.com>  
+Joaquim Ley - <me@joaquimley.com>
 Ryan Amaral - <me@ryanamaral.com>
 
 ### Who do I talk to? ###
 
 Joaquim Ley  
-<me@joaquimley.com>  
+<me@joaquimley.com>
 www.joaquimley.com
 
 License
