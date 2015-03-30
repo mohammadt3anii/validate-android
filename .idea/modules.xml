@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/libs/AppMsg Library/AppMsg Library.iml" filepath="$PROJECT_DIR$/libs/AppMsg Library/AppMsg Library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Validar Portugal.iml" filepath="$PROJECT_DIR$/Validar Portugal.iml" />
+    </modules>
+  </component>
+</project>

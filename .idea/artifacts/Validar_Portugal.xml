@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="apk" build-on-make="true" name="Validar Portugal">
+    <output-path>$PROJECT_DIR$/out/</output-path>
+    <properties id="android-properties">
+      <options>
+        <option name="keyAlias" value="master" />
+        <option name="keyPassword" value="Y2VuYXNmaXhlcw==" />
+        <option name="keyStorePassword" value="Y2VuYXNmaXhlcw==" />
+        <option name="keyStoreUrl" value="file://$USER_HOME$/Desktop/Keystore Validar Portugal/KeystoreValidarPortugal.jks" />
+        <option name="proGuardCfgFiles">
+          <list>
+            <option value="file://%MODULE_SDK_HOME%/tools/proguard/proguard-android.txt" />
+          </list>
+        </option>
+        <option name="signingMode" value="RELEASE_SIGNED" />
+      </options>
+    </properties>
+    <root id="archive" name="Validar Portugal.apk">
+      <element id="android-final-package" facet="Validar Portugal/android/Android" />
+    </root>
+  </artifact>
+</component>
