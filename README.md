@@ -3,7 +3,9 @@ ValidarPortugal for Android
 
 Mobile App used to validate official government issued document numbers (Portugal version).
 
-**Supported Documents:**
+**Currently Supported Documents:**  
+
+Portugal
 
  * Id Card Number (Número de Bilhete de Identidade)
  * Tax Number (Número de Indentificação Fiscal)
@@ -24,8 +26,8 @@ Xoidre-Team
 Future Releases
 ---------------
 
- * Create versions for other countries (Algorithms needed)
- * Create country selector (Flag icons) 
+ * Add other countries validation algorithms
+ * Create country selector with flag icons) 
 
 Contribution guidelines
 -----------------------
