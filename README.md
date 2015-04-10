@@ -8,7 +8,7 @@ Mobile App used to validate official government issued document numbers (Portuga
 Portugal
 
  * Id Card Number (Número de Bilhete de Identidade)
- * Tax Number (Número de Indentificação Fiscal)
+ * Tax Number (Número de Identificação Fiscal)
  * Social Security Number (Número de Identificação de Segurança Social)
  * Citizen's Card Number (Número de Cartão de Cidadão)
 
