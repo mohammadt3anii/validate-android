@@ -6,7 +6,7 @@
         <option name="keyAlias" value="master" />
         <option name="keyPassword" value="Y2VuYXNmaXhlcw==" />
         <option name="keyStorePassword" value="Y2VuYXNmaXhlcw==" />
-        <option name="keyStoreUrl" value="file://$USER_HOME$/Desktop/Keystore Validar Portugal/KeystoreValidarPortugal.jks" />
+        <option name="keyStoreUrl" value="file://D:/Google Drive/Works/# Files/Keystore Validar Portugal/KeystoreValidarPortugal.jks" />
         <option name="proGuardCfgFiles">
           <list>
             <option value="file://%MODULE_SDK_HOME%/tools/proguard/proguard-android.txt" />
