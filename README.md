@@ -1,3 +1,5 @@
+## DEPRECATED: Will be remade under the "Validate" name.
+
 ValidarPortugal for Android
 ===========================
 
